@@ -1,5 +1,13 @@
 using System;
 
+/*
+Exceeding Requirements
+
+- The Newtonsoft.Json library was used to serialize and deserialize the objects to save and load files with .json extension
+- Added a new field in the entries: _time
+- Files with .csv extension can be saved and loaded
+*/
+
 class Program
 {
     static void Main(string[] args)
